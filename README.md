@@ -1,12 +1,12 @@
-# Stellar-Save — Rotational Savings on Stellar
+# Stellar-Save-Frontend — Rotational Savings on Stellar
 
 **A decentralized rotational savings and credit association (ROSCA) built on Stellar Soroban smart contracts.**
 
 Stellar Save is a traditional community-based savings system where members contribute a fixed amount regularly, and each member receives the total pool on a rotating basis. This project brings this time-tested financial mechanism to the blockchain, making it transparent, trustless, and accessible globally.
 
-## 🎯 What is Stellar-Save?
+## 🎯 What is Stellar-Save-Frontend?
 
-Stellar-Save is a rotating savings and credit association (ROSCA) common in Nigeria and across Africa. Members:
+Stellar-Save-Frontend is a rotating savings and credit association (ROSCA) common in Nigeria and across Africa. Members:
 - Form a group with a fixed contribution amount
 - Contribute the same amount each cycle (e.g., weekly or monthly)
 - Take turns receiving the full pool of contributions
@@ -20,9 +20,9 @@ Stellar-Save is a rotating savings and credit association (ROSCA) common in Nige
 
 ## 🏗️ Architecture
 
-The Stellar-Save system consists of four main layers that work together to provide a decentralized ROSCA experience:
+The Stellar-Save-Frontend system consists of four main layers that work together to provide a decentralized ROSCA experience:
 
-![Stellar-Save Architecture](docs/architecture-diagram.svg)
+![Stellar-Save-Frontend Architecture](docs/architecture-diagram.svg)
 
 ### Architecture Components
 
